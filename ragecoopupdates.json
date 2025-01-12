@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "RageCoop.Server-linux-x64.zip",
+        "UpdateSourceArgs": "RAGECOOP/RAGECOOP-V",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
